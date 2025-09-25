@@ -8,3 +8,7 @@ __pycache__
 _results/
 data/
 out/
+
+sentences.csv
+noun_phrases.csv
+Religion.jsonl
